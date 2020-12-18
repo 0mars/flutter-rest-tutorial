@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "17aa1145a0fbb2ce8ce2d3140d0f619e"
+build_time: [1608285794, 475582000]
+inputs:
+  "/Users/omar/workspace/dart/ektebly/macos/Runner/MainFlutterWindow.swift": [1605297494, 0]
+  "/Users/omar/workspace/dart/ektebly/macos/Runner/AppDelegate.swift": [1605297494, 0]
+  "/Users/omar/workspace/dart/ektebly/macos/Flutter/GeneratedPluginRegistrant.swift": [1608285775, 784834674]
